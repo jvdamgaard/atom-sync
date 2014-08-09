@@ -1,0 +1,30 @@
+{
+  "name": "lodash-snippets",
+  "main": "./lib/lodash-snippets",
+  "version": "1.0.2",
+  "description": "Lo-Dash snippets for AtomEditor",
+  "activationEvents": [
+    "lodash-snippets:toggle"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/richtmat/lodash-snippets"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {},
+  "readme": "# Lo-Dash.js Snippets for Atom Editor\n\nSome snippets to quickly use Lo-Dash Library in AtomEditor.\n\nOnly the Array and collections part of the library are implemented as these are\nthe parts I use the most. I would love to extend the snippets to the complete\nlodash functionality.\n\nInstall:\n```bash\napm install lodash-snippets\n```\nFeel free to contribute with issues or PRs!\n\nInspired by the [atom-undescorejs](https://github.com/tianpermana/atom-underscorejs) package by Tian Permana.\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/richtmat/lodash-snippets/issues"
+  },
+  "homepage": "https://github.com/richtmat/lodash-snippets",
+  "_id": "lodash-snippets@1.0.2",
+  "dist": {
+    "shasum": "c5063d2fb0d344b254bb766dea69d0836e714546"
+  },
+  "_resolved": "/var/folders/gx/0l5hyddd2j78zsr58wj9r5_h0000gn/T/d-11479-1467-5lk4u2/package.tgz",
+  "_from": "/var/folders/gx/0l5hyddd2j78zsr58wj9r5_h0000gn/T/d-11479-1467-5lk4u2/package.tgz"
+}
