@@ -1,34 +1,28 @@
-'exception-reporting':
-  'userId': '37172181-d5cb-7494-39dc-22b646091fa4'
-'release-notes':
-  'viewedVersion': '0.81.0'
-'welcome':
-  'showOnStartup': false
-'metrics':
-  'userId': '8b9bf613c3d5e2bcc31e289ef5f1ec5b71376fb3'
-'editor':
-  'fontSize': 15
-  'showIndentGuide': true
-  'softWrapAtPreferredLineLength': true
-  'tabLength': 4
-'core':
-  'themes': [
-    'atom-dark-ui'
-    'tomorrow-night-syntax'
-  ]
-  'ignoredNames': [
-    '.git'
-    '.svn'
-    '.DS_Store'
-    'node_modules/'
-    'dist/'
-  ]
-  'disabledPackages': [
-    'metrics'
-  ]
-  'projectHome': '/Users/jakob/Repos'
-'atom-beautify':
-  'beautifyOnSave': true
-  'css_indent_size': 4
-  'js_indent_size': 4
-  '_analyticsUserId': '6940327f-8590-444e-9500-893d4391275d'
+"*":
+  editor:
+    invisibles: {}
+    showIndentGuide: true
+    fontSize: 15
+    tabLength: 4
+  core:
+    themes: [
+      "atom-dark-ui"
+      "tomorrow-night-eighties"
+    ]
+    projectHome: "/Users/jakob/repos"
+    disabledPackages: [
+      "linter-jscs"
+    ]
+  "exception-reporting":
+    userId: "1786f002-b354-481f-a8a8-7c07636848cf"
+  welcome:
+    showOnStartup: false
+  linter:
+    statusBar: "Show error of the selected line"
+  "autocomplete-plus": {}
+  emmet: {}
+  docblockr: {}
+  minimap: {}
+  "atom-beautify": {}
+  "git-diff": {}
+  "markdown-preview": {}

@@ -1,0 +1,34 @@
+{
+  "name": "tomorrow-night-eighties-syntax",
+  "theme": "syntax",
+  "version": "0.4.0",
+  "description": "Tomorrow Night Eighties syntax theme for Atom.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rockymadden/tomorrow-night-eighties-syntax-theme"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.59.0"
+  },
+  "readme": "# Tomorrow Night Eighties Atom Syntax Theme\n\nAtom syntax theme using the ever popular Tomorrow Night Eighties colors:\n\n![](https://github.com/ChrisKempson/Tomorrow-Theme/raw/master/Images/Tomorrow-Night-Eighties-Palette.png)\n",
+  "readmeFilename": "readme.md",
+  "bugs": {
+    "url": "https://github.com/rockymadden/tomorrow-night-eighties-syntax-theme/issues"
+  },
+  "homepage": "https://github.com/rockymadden/tomorrow-night-eighties-syntax-theme",
+  "_id": "tomorrow-night-eighties-syntax@0.4.0",
+  "_shasum": "7240665706c36ce5f28fd7dfa3121f1ab7164488",
+  "_resolved": "file:../d-11515-1758-6s7kmx/package.tgz",
+  "_from": "../d-11515-1758-6s7kmx/package.tgz",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}

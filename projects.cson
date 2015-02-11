@@ -1,0 +1,35 @@
+'api-facade-core':
+  'title': 'api-facade-core'
+  'paths': [
+    '/Users/jakob/Repos/api-facade-core'
+  ]
+'api-service-composites':
+  'title': 'api-service-composites'
+  'paths': [
+    '/Users/jakob/Repos/api-service-composites'
+  ]
+'ds-api-jobs-sdk-js':
+  'title': 'ds-api-jobs-sdk-js'
+  'paths': [
+    '/Users/jakob/Repos/team-npm-packages/ds-api-jobs-sdk-js'
+  ]
+'api-service-vacancies':
+  'title': 'api-service-vacancies'
+  'paths': [
+    '/Users/jakob/Repos/api-service-vacancies'
+  ]
+'api-facade-iojs':
+  'title': 'api-facade-iojs'
+  'paths': [
+    '/Users/jakob/Repos/api-facade-iojs'
+  ]
+'ds-server':
+  'title': 'ds-server'
+  'paths': [
+    '/Users/jakob/Repos/team-npm-packages/ds-server'
+  ]
+'ds-model':
+  'title': 'ds-model'
+  'paths': [
+    '/Users/jakob/Repos/ds-model'
+  ]
