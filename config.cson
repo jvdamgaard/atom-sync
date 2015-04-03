@@ -10,9 +10,6 @@
       "tomorrow-night-eighties"
     ]
     projectHome: "/Users/jakob/repos"
-    disabledPackages: [
-      "linter-jscs"
-    ]
   "exception-reporting":
     userId: "1786f002-b354-481f-a8a8-7c07636848cf"
   welcome:
@@ -22,7 +19,19 @@
   "autocomplete-plus": {}
   emmet: {}
   docblockr: {}
-  minimap: {}
-  "atom-beautify": {}
+  minimap:
+    plugins:
+      "git-diff": true
+  "atom-beautify":
+    _analyticsUserId: "7dc77a61-e59c-4c7f-b59a-f9f97e82f1a1"
+    js_end_with_newline: true
+    disabledLanguages: [
+      "GitHub Markdown"
+    ]
+    muteAllErrors: true
+    beautifyOnSave: true
   "git-diff": {}
   "markdown-preview": {}
+  "linter-jscs": {}
+  "tree-view":
+    hideVcsIgnoredFiles: true

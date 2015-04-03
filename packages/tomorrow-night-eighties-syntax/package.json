@@ -1,7 +1,7 @@
 {
   "name": "tomorrow-night-eighties-syntax",
   "theme": "syntax",
-  "version": "0.4.0",
+  "version": "0.6.0",
   "description": "Tomorrow Night Eighties syntax theme for Atom.",
   "repository": {
     "type": "git",
@@ -17,10 +17,10 @@
     "url": "https://github.com/rockymadden/tomorrow-night-eighties-syntax-theme/issues"
   },
   "homepage": "https://github.com/rockymadden/tomorrow-night-eighties-syntax-theme",
-  "_id": "tomorrow-night-eighties-syntax@0.4.0",
-  "_shasum": "7240665706c36ce5f28fd7dfa3121f1ab7164488",
-  "_resolved": "file:../d-11515-1758-6s7kmx/package.tgz",
-  "_from": "../d-11515-1758-6s7kmx/package.tgz",
+  "_id": "tomorrow-night-eighties-syntax@0.6.0",
+  "_shasum": "e9cdf006ff831f26f0607219105834e505e55ee4",
+  "_resolved": "file:../d-115227-28468-1jfk8qy/package.tgz",
+  "_from": "../d-115227-28468-1jfk8qy/package.tgz",
   "_atomModuleCache": {
     "version": 1,
     "dependencies": [],

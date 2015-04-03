@@ -1,7 +1,7 @@
 {
   "name": "tomorrow-night-eighties",
   "theme": "syntax",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "private": false,
   "description": "An atom conversion of the Tomorrow Night Eighties theme.",
   "repository": {
@@ -18,10 +18,10 @@
     "url": "https://github.com/blakehall/tomorrow-night-eighties/issues"
   },
   "homepage": "https://github.com/blakehall/tomorrow-night-eighties",
-  "_id": "tomorrow-night-eighties@0.3.0",
-  "_shasum": "44b3a39baab7aab8d923706c843cbd57fe0d6195",
-  "_resolved": "file:../d-11515-1750-1orycnr/package.tgz",
-  "_from": "../d-11515-1750-1orycnr/package.tgz",
+  "_id": "tomorrow-night-eighties@0.4.0",
+  "_shasum": "5bd3c21510a4426e42b06704446eeda0cab2bb02",
+  "_resolved": "file:../d-115119-3536-1y6h48o/package.tgz",
+  "_from": "../d-115119-3536-1y6h48o/package.tgz",
   "_atomModuleCache": {
     "version": 1,
     "dependencies": [],

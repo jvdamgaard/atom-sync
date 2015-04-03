@@ -33,3 +33,113 @@
   'paths': [
     '/Users/jakob/Repos/ds-model'
   ]
+'team-npm-packages':
+  'title': 'team-npm-packages'
+  'paths': [
+    '/Users/jakob/Repos/team-npm-packages'
+  ]
+'ds-util-logger':
+  'title': 'ds-util-logger'
+  'paths': [
+    '/Users/jakob/Repos/team-npm-packages/ds-util-logger'
+  ]
+'ds-waterline-rest-server':
+  'title': 'ds-waterline-rest-server'
+  'paths': [
+    '/Users/jakob/Repos/team-npm-packages/ds-waterline-rest-server'
+  ]
+'ds-api-test-suite':
+  'title': 'ds-api-test-suite'
+  'paths': [
+    '/Users/jakob/Repos/team-npm-packages/ds-api-test-suite'
+  ]
+'ds-service-connector':
+  'title': 'ds-service-connector'
+  'paths': [
+    '/Users/jakob/Repos/team-npm-packages/ds-service-connector'
+  ]
+'ds-task-test-node':
+  'title': 'ds-task-test-node'
+  'paths': [
+    '/Users/jakob/Repos/team-npm-packages/ds-task-test-node'
+  ]
+'generator-ds':
+  'title': 'generator-ds'
+  'paths': [
+    '/Users/jakob/Repos/team-npm-packages/generator-ds'
+  ]
+'dotfiles':
+  'title': 'dotfiles'
+  'paths': [
+    '/Users/jakob/Repos/dotfiles'
+  ]
+'ds-websocket-to-rest':
+  'title': 'ds-websocket-to-rest'
+  'paths': [
+    '/Users/jakob/Repos/team-npm-packages/ds-websocket-to-rest'
+  ]
+'ds-deploy-node':
+  'title': 'ds-deploy-node'
+  'paths': [
+    '/Users/jakob/Repos/team-npm-packages/ds-deploy-node'
+  ]
+'api-service-mocks':
+  'title': 'api-service-mocks'
+  'paths': [
+    '/Users/jakob/Repos/api-service-mocks'
+  ]
+'dansksupermarked-documentation-website':
+  'title': 'dansksupermarked-documentation-website'
+  'paths': [
+    '/Users/jakob/Repos/dansksupermarked-documentation-website'
+  ]
+'team-documentation-website':
+  'title': 'team-documentation-website'
+  'paths': [
+    '/Users/jakob/Repos/team-documentation-website'
+  ]
+'api-webjob-jobs':
+  'title': 'api-webjob-jobs'
+  'paths': [
+    '/Users/jakob/Repos/api-webjob-jobs'
+  ]
+'api-documentation-website':
+  'title': 'api-documentation-website'
+  'paths': [
+    '/Users/jakob/Repos/api-documentation-website'
+  ]
+'ds-documentation-generator':
+  'title': 'ds-documentation-generator'
+  'paths': [
+    '/Users/jakob/Repos/team-npm-packages/ds-documentation-generator'
+  ]
+'ds-redis-to-rest':
+  'title': 'ds-redis-to-rest'
+  'paths': [
+    '/Users/jakob/Repos/team-npm-packages/ds-redis-to-rest'
+  ]
+'ds-middleware-error-handler':
+  'title': 'ds-middleware-error-handler'
+  'paths': [
+    '/Users/jakob/Repos/team-npm-packages/ds-middleware-error-handler'
+  ]
+'legacy-sharepoint-websites':
+  'title': 'legacy-sharepoint-websites'
+  'paths': [
+    '/Users/jakob/Repos/legacy-sharepoint-websites'
+  ]
+'ds-redis-crud':
+  'title': 'ds-redis-crud'
+  'paths': [
+    '/Users/jakob/Repos/team-npm-packages/ds-redis-crud'
+  ]
+'ds-service-bus-to-rest':
+  'title': 'ds-service-bus-to-rest'
+  'paths': [
+    '/Users/jakob/Repos/team-npm-packages/ds-service-bus-to-rest'
+  ]
+'api-service-online-products':
+  'title': 'api-service-online-products'
+  'paths': [
+    '/Users/jakob/Repos/api-service-online-products'
+  ]
